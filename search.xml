@@ -3,9 +3,26 @@
   
     
     <entry>
-      <title></title>
-      <url>/2018/03/06/index/</url>
-      <content type="html"></content>
+      <title><![CDATA[学习该怎么学习]]></title>
+      <url>/2018/03/06/2018-03-06-%E5%AD%A6%E4%B9%A0%E8%AF%A5%E6%80%8E%E4%B9%88%E5%AD%A6%E4%B9%A0/</url>
+      <content type="html"><![CDATA[<h2 id="背景"><a href="#背景" class="headerlink" title="背景"></a>背景</h2><p>今天有幸听了某位大咖的直播，有些启发</p>
+<h2 id="计划"><a href="#计划" class="headerlink" title="计划"></a>计划</h2><p>每天时间有很多，每次都是很浪费时间，对自己制定的计划，总是心里有些抵触，觉得有点麻烦，所以没办法坚持下去，峰哥说的对，每次定的计划很小，小到不做都说不过去，例如每天早上8点起来跑步，只需要跑10分钟，每天晚上做仰卧起坐，只需要10个，给自己一个不做都说不过去的计划，慢慢养成习惯。</p>
+<h2 id="具体计划"><a href="#具体计划" class="headerlink" title="具体计划"></a>具体计划</h2><h3 id="跑步"><a href="#跑步" class="headerlink" title="跑步"></a>跑步</h3><blockquote>
+<p>每天8点起床跑步，1km就可以，正好公园一圈。</p>
+<h3 id="看书"><a href="#看书" class="headerlink" title="看书"></a>看书</h3></blockquote>
+<p>  看书这条很模糊，看博客也算是看书，看电子书也是看书，每周应该至少看一本技术书，因为技术书需要实战，不能“走马观花”，而非技术书可以“走马观花”，每周2本吧，先定个小量，下了很多电子书，根据这个计划早点看完。</p>
+<blockquote>
+<p>每周1本技术书、2本非技术书</p>
+<h3 id="番茄工作法"><a href="#番茄工作法" class="headerlink" title="番茄工作法"></a>番茄工作法</h3><p> 番茄工作法总是没办法跟上节奏，有些时间太短，还没尽兴，时间就到了，尽快找个可行的办法执行番茄工作法。</p>
+</blockquote>
+<h3 id="冥想"><a href="#冥想" class="headerlink" title="冥想"></a>冥想</h3><p>  大学有一门心理课，上课老师让我们打坐冥想，我始终感觉只有“佛家弟子”才会打坐，不过后来自己亲身体会，试了下，打坐5分钟，什么也不想，确实能放松身心，放空自己，很快疲惫的身体能够休息好，</p>
+<blockquote>
+<p>番茄工作法结合下冥想，在番茄工作法休息时间进行冥想休息。</p>
+</blockquote>
+<h3 id="写作"><a href="#写作" class="headerlink" title="写作"></a>写作</h3><p>  时时保持写作确实很有必要，看书是一方面，每次看书要把书中的内容转化为自己的语言才是自己真正理解了，跟辉哥学习，每天都要写一篇日记，里flag为证，就算半夜12点了也要写，自律的人都是逼出来的。</p>
+<h3 id="理财投资"><a href="#理财投资" class="headerlink" title="理财投资"></a>理财投资</h3><p>  这个话题需要再去学习，银行都是欠穷人的钱，而富人都是欠银行的钱，这句话说得很好，如何让自己的钱有回报，有高回报，得着实需要学习下。</p>
+<p>flag够多了，养成习惯，这几条实现了，再添加。<br>做todo计划去了。</p>
+]]></content>
       
         
     </entry>
@@ -14,14 +31,8 @@
   
     
     <entry>
-      <title><![CDATA[gallery]]></title>
-      <url>/gallery/index.html</url>
-      <content type="html"></content>
-    </entry>
-    
-    <entry>
-      <title><![CDATA[timeline]]></title>
-      <url>/timeline/index.html</url>
+      <title><![CDATA[links]]></title>
+      <url>/links/index.html</url>
       <content type="html"></content>
     </entry>
     
@@ -32,8 +43,14 @@
     </entry>
     
     <entry>
-      <title><![CDATA[links]]></title>
-      <url>/links/index.html</url>
+      <title><![CDATA[timeline]]></title>
+      <url>/timeline/index.html</url>
+      <content type="html"></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[gallery]]></title>
+      <url>/gallery/index.html</url>
       <content type="html"></content>
     </entry>
     
